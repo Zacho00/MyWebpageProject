@@ -1,9 +1,8 @@
 .top-page {
-	background-image: url('JTRPRight2.jpg');
+	background-image: url('JTRPRight3.jpg');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 1600px;
 	color: black;
 	padding: 20px;
 
@@ -11,6 +10,7 @@
 body {
 	background-color: darkgrey;
 }
+
 
 
 
