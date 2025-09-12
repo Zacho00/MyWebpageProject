@@ -3,7 +3,11 @@
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 400px;
+	height: 800px;
 	color: black;
 	padding: 20px;
+
+}
+html {
+	background-color: grey;
 }
