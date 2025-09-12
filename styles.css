@@ -1,0 +1,9 @@
+.top-page {
+	background-image: url('JTRPRight.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 400px;
+	color: black;
+	padding: 20px;
+}
