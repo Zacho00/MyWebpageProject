@@ -7,9 +7,11 @@
 	padding: 10px;
 
 }
+
 body {
 	background-color: maroon;
 }
+
 main {
 	background-color: red;
 }
@@ -19,6 +21,14 @@ main {
 	color: white;
 	border-color: maroon;
 	align-self: right;
+}
+
+nav {
+	text-align: left;
+}
+nav a {
+	text-decoration: none;
+	font-weight:  bold;
 }
 
 
