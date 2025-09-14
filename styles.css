@@ -1,6 +1,6 @@
 .top-page {
 	background-image: url('Sebring2.png');
-	background-size: contain;
+	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	color: black;
@@ -9,6 +9,16 @@
 }
 body {
 	background-color: maroon;
+}
+main {
+	background-color: red;
+}
+
+.about-us {
+	background-color: black;
+	color: white;
+	border-color: maroon;
+	align-self: right;
 }
 
 
