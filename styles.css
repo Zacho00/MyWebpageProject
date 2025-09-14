@@ -1,15 +1,16 @@
 .top-page {
-	background-image: url('JTRPRight3.jpg');
+	background-image: url('Sebring2.jpg');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
 	color: black;
-	padding: 20px;
+	padding: 10px;
 
 }
 body {
-	background-color: darkgrey;
+	background-color: maroon;
 }
+
 
 
 
