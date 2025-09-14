@@ -1,5 +1,5 @@
 .top-page {
-	background-image: url('Sebring2.jpg');
+	background-image: url('Sebring2.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -10,6 +10,7 @@
 body {
 	background-color: maroon;
 }
+
 
 
 
