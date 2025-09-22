@@ -26,7 +26,7 @@ main {
 .about-us > div {
 	background-color: black;
 	color: white;
-	width: 2000px;
+	width: 1000px;
 	margin: 10px;
 	text-align: center;
 	line-height: 75px;
@@ -40,6 +40,7 @@ nav a {
 	text-decoration: none;
 	font-weight:  bold;
 }
+
 
 
 
