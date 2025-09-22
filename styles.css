@@ -17,10 +17,12 @@ main {
 }
 
 .about-us {
+	position: relative;
+	left: 800px;
+	padding-right: 50px;
 	background-color: black;
 	color: white;
 	border-color: maroon;
-	align-self: right;
 }
 
 nav {
@@ -30,6 +32,7 @@ nav a {
 	text-decoration: none;
 	font-weight:  bold;
 }
+
 
 
 
