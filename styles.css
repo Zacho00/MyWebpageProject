@@ -23,7 +23,7 @@ main {
 	background-color: red;
 }
 
-.about-us > h1, p {
+.about-us > div {
 	background-color: black;
 	color: white;
 	width: 100px;
@@ -40,6 +40,7 @@ nav a {
 	text-decoration: none;
 	font-weight:  bold;
 }
+
 
 
 
