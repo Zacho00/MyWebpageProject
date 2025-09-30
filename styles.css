@@ -65,8 +65,20 @@ nav a {
 	font-weight:  bold;
 }
 
-
-
+ul {
+	list-style-type: square;
+}
+table {
+	border-collapse: separate; 
+	border-spacing: 10px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+th, td {
+	padding: 8px;
+	border: 1px solid white;
+	background: red;
+}
 
 
 
