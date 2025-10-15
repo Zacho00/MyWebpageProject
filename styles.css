@@ -37,6 +37,62 @@ main {
 	font-size: 18px;
 }
 
+.visit {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+	margin: auto;
+	width: 2000px;
+	height: 300px;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+.visit-img {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: red;
+	margin: auto;
+	width: 2000px;
+	height: 500px;
+}
+
+.series-img {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: red;
+	margin: auto;
+	width: 2000px;
+	height: 500px;
+}
+
+.contact-us {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+	margin: auto;
+	width: 1000px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 20px;
+	border: 1px solid white;
+}
+
+.series {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+	margin: auto;
+	width: 2000px;
+	height: 300px;
+	color: white;
+	font-size: 25px;
+}
+
 .victories {
 	display: flex;
 	justify-content: space-evenly;
@@ -75,7 +131,7 @@ table {
 	margin-right: auto;
 }
 th, td {
-	padding: 8px;
+	padding: 8px; 
 	border: 1px solid white;
 	background: red;
 }
